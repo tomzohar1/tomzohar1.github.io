@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 JUL 2020 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  22 AUG 2020 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,6 +325,12 @@ Overfull \hbox (8.1561pt too wide) in paragraph at lines 1--2
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 (/Users/tomzohar/Dropbox//reassIneq/intergenMob/texArticle/IGM_decomposition/se
 ctions/abstract.tex Excluding 'comment' comment. Excluding 'comment' comment.)
+Overfull \hbox (0.86661pt too wide) in paragraph at lines 172--173
+[]\OT1/pnc/m/n/10 Leonard W. Ely and Shirley R. Ely Grad-u-ate Stu-dent Fel-low
+-ship ($29,958) 
+ []
+
+
 Overfull \hbox (0.66827pt too wide) in paragraph at lines 197--197
 []\OT1/pnc/b/n/10 PRESENTATIONS  
  []
@@ -349,7 +355,7 @@ exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (3 pages, 59590 bytes).
+Output written on cv_TomZohar.pdf (3 pages, 59622 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
