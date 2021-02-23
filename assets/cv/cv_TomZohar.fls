@@ -1,4 +1,4 @@
-PWD /Users/tomzohar/Dropbox/website/tomzohar1.github.io/assets/cv
+PWD /Users/tomzohar/Dropbox/Tools/website/tomzohar1.github.io/assets/cv
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -68,8 +68,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm
-INPUT /Users/tomzohar/Dropbox//abortionDemand/Writing/manuscript/sections/abstract.tex
-INPUT /Users/tomzohar/Dropbox//abortionDemand/Writing/manuscript/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/abortionDemand/Writing/manuscript/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/abortionDemand/Writing/manuscript/sections/abstract.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -79,8 +79,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncri7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri8r.tfm
-INPUT /Users/tomzohar/Dropbox//reassIneq/intergenMob/texArticle/IGM_decomposition/sections/abstract.tex
-INPUT /Users/tomzohar/Dropbox//reassIneq/intergenMob/texArticle/IGM_decomposition/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/reassIneq/intergenMob/texArticle/IGM_decomposition/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/reassIneq/intergenMob/texArticle/IGM_decomposition/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/headOfTheFox/Writing/manuscript/sections/abstract.tex
+INPUT /Users/tomzohar/Dropbox//Research/headOfTheFox/Writing/manuscript/sections/abstract.tex
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr7t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8r.tfm

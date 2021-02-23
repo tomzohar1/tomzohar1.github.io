@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  22 AUG 2020 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 FEB 2021 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,52 +313,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--110
  []
 
 
-(/Users/tomzohar/Dropbox//abortionDemand/Writing/manuscript/sections/abstract.t
-ex
-Overfull \hbox (8.1561pt too wide) in paragraph at lines 1--2
-[]\OT1/pnc/m/n/10 How does an in-crease in abor-tion ac-cess af-fect la-bor mar
--ket out-comes for women?
- []
+(/Users/tomzohar/Dropbox//Research/abortionDemand/Writing/manuscript/sections/a
+bstract.tex) [1
 
-[1
-
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(/Users/tomzohar/Dropbox//reassIneq/intergenMob/texArticle/IGM_decomposition/se
-ctions/abstract.tex Excluding 'comment' comment. Excluding 'comment' comment.)
-Overfull \hbox (0.86661pt too wide) in paragraph at lines 172--173
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(/Users/tomzohar/Dropbox//Research/reassIneq/intergenMob/texArticle/IGM_decompo
+sition/sections/abstract.tex Excluding 'comment' comment.
+Excluding 'comment' comment.)
+(/Users/tomzohar/Dropbox//Research/headOfTheFox/Writing/manuscript/sections/abs
+tract.tex)
+Overfull \hbox (0.86661pt too wide) in paragraph at lines 182--183
 []\OT1/pnc/m/n/10 Leonard W. Ely and Shirley R. Ely Grad-u-ate Stu-dent Fel-low
 -ship ($29,958) 
  []
 
-
-Overfull \hbox (0.66827pt too wide) in paragraph at lines 197--197
+[2]
+Overfull \hbox (0.66827pt too wide) in paragraph at lines 207--207
 []\OT1/pnc/b/n/10 PRESENTATIONS  
  []
 
-[2] Excluding 'comment' comment.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Excluding 'comment' comment.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 249.
  ) 
 Here is how much of TeX's memory you used:
- 5304 strings out of 492649
- 78391 string characters out of 6129622
- 174647 words of memory out of 5000000
+ 5307 strings out of 492649
+ 78694 string characters out of 6129622
+ 173647 words of memory out of 5000000
  9170 multiletter control sequences out of 15000+600000
  10827 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,1402b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,1329b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (3 pages, 59622 bytes).
+Output written on cv_TomZohar.pdf (3 pages, 61641 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
