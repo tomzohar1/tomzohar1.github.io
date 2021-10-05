@@ -1,8 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1613415012 "cv_TomZohar.tex" "cv_TomZohar.pdf" "cv_TomZohar" 1613415012
-  "/Users/tomzohar/Dropbox//Research/abortionDemand/Writing/manuscript/sections/abstract.tex" 1606430833 1230 50f5ff1b9288a4d5095ad34ef28b8033 ""
-  "/Users/tomzohar/Dropbox//Research/headOfTheFox/Writing/manuscript/sections/abstract.tex" 1603330495 886 03490fd1bf871c45a98771930167b7f8 ""
-  "/Users/tomzohar/Dropbox//Research/reassIneq/intergenMob/texArticle/IGM_decomposition/sections/abstract.tex" 1594114875 3437 3b8eebf1d28a00bc977c00dd6224a792 ""
+["pdflatex"] 1633459327 "cv_TomZohar.tex" "cv_TomZohar.pdf" "cv_TomZohar" 1633459328
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm" 1480098688 1748 e2a60f37215e3585dff293cec494a67b ""
@@ -49,8 +46,8 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "cv_TomZohar.aux" 1594117456 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv_TomZohar.tex" 1613415011 10675 fd4ceea9e521e17f9d189078ec5deaaa ""
+  "cv_TomZohar.tex" 1633459327 10490 8204406fbf3cb83aec90ca0627c082c9 ""
   "res.cls" 1548703733 25064 12b8a9e558b35c7e7f7f5fb39bebb9a2 ""
   (generated)
-  "cv_TomZohar.pdf"
   "cv_TomZohar.log"
+  "cv_TomZohar.pdf"
