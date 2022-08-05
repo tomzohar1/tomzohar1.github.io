@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 AUG 2022 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 AUG 2022 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,26 +291,19 @@ Overfull \hbox (7.7165pt too wide) in paragraph at lines 112--113
 Arkhangel-sky and Kazuharu Yanag-
  []
 
-[1
-
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
 LaTeX Font Info:    Try loading font information for OMS+pnc on input line 139.
-
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 File: omspnc.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pnc/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 139.
+ [1
 
-Overfull \hbox (0.66827pt too wide) in paragraph at lines 177--177
-[]\OT1/pnc/b/n/10 PRESENTATIONS  
- []
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
@@ -329,17 +322,17 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 210.
 Here is how much of TeX's memory you used:
  5296 strings out of 492649
  77869 string characters out of 6129622
- 171647 words of memory out of 5000000
+ 172647 words of memory out of 5000000
  9168 multiletter control sequences out of 15000+600000
  9424 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,28p,798b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,28p,798b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (2 pages, 56722 bytes).
+Output written on cv_TomZohar.pdf (2 pages, 54501 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
