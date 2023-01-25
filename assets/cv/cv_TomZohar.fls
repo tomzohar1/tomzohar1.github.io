@@ -66,8 +66,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr7t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -77,6 +75,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncri7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri8r.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb
