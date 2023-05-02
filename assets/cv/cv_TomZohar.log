@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  25 JAN 2023 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 MAY 2023 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,25 +292,25 @@ LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <10> not available
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+pnc on input line 141.
+LaTeX Font Info:    Try loading font information for OMS+pnc on input line 143.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 File: omspnc.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pnc/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 141.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--206
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
  5297 strings out of 492649
@@ -325,7 +325,7 @@ exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2018/tex
 mf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (3 pages, 57089 bytes).
+Output written on cv_TomZohar.pdf (3 pages, 57753 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
