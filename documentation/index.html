@@ -1,0 +1,305 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+
+    <head lang="en">
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <title>Desmond Resume Template Documentation</title>
+        <!-- Framework CSS -->
+        <link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+        <link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+        <!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+        <link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+    </head>
+
+
+    <body>
+        <div class="container">
+
+            <h3 class="center alt top">HTML Template Documentation</h3>
+
+            <hr/>
+
+            <h1 class="center">Desmond Resume Template</h1>
+
+            <div class="borderTop">
+                <div class="span-6 colborder info prepend-1">
+                    <p class="prepend-top">
+                        <strong>
+                            May 1, 2016
+                        </strong>
+                    </p>
+                    <p class="prepend-top small">
+                        Information about updates and new themes are always announced on <a target="_blank" href="https://plus.google.com/113894971444572788458/">Google+</a>, <a target="_blank" href="https://www.facebook.com/RuvenThemes">Facebook</a> and <a target="_blank" href="http://twitter.com/_ruven">Twitter</a>.
+                    </p>
+                    <p class="prepend-top">
+                        <a target="_blank" href="https://plus.google.com/113894971444572788458/">
+                            <img src="assets/images/social_icons/google-plus.png" alt="Follow Ruven on Google+" width="144" height="56">
+                        </a>
+                        <br/>
+                        <a target="_blank" href="https://www.facebook.com/RuvenThemes">
+                            <img src="assets/images/social_icons/facebook.png" alt="Add Ruven on Facebook" width="144" height="56">
+                        </a>
+                        <br/>
+                        <a target="_blank" href="http://twitter.com/_ruven">
+                            <img src="assets/images/social_icons/twitter.png" alt="Follow Ruven on Twitter" width="144" height="56">
+                        </a>
+                    </p>
+                </div><!-- end div .span-6 -->
+
+                <div class="span-12 last">
+                    <p class="prepend-top append-0">
+                        <b>Thank you for purchasing this template!</b>
+                    </p>
+                    <p>
+                        This documentation provides help to setup the template according to your needs.
+                        I assume that you know basic HTML and will not cover the obvious, and rather focus on the essential parts of the setup.
+                    </p>
+                    <p>
+                        If questions occur that are not covered by this help file, feel free to ask me anything you want in the comment section of this template on <a href="http://themeforest.net/user/RuvenThemes/portfolio?ref=RuvenThemes">ThemeForest</a>.
+                    </p>
+                    <p>
+                        Have fun with your new template!
+                    </p>
+                    <p>
+                        Best regards,<br/>
+                        <span class="alt large">Ruven</span>
+                    </p>
+                </div>
+            </div><!-- end div .borderTop -->
+
+            <hr/>
+
+
+
+
+
+
+
+
+
+            <h2 id="toc" class="alt">Table of Contents</h2>
+
+            <ol class="alpha">
+
+                <li><a href="#folder-structure">Folder Structure</a></li>
+                <li><a href="#image-sizes">Image Sizes</a></li>
+                <li><a href="#retina-support">Retina/HiDPI Support</a></li>
+                <li><a href="#disabling-features">Disabling Features</a>
+                    <ol>
+                        <li><a href="#disabling-retina">Disabeling Retina/HiDPI Support</a></li>
+                        <li><a href="#disabling-lightbox">Disabeling Nivo Lightbox</a></li>
+                    </ol>
+                </li>
+                <li><a href="#changing-themes">Changing Themes</a></li>
+                <li><a href="#custom-css">Custom CSS</a></li>
+                <li><a href="#custom-theme">Creating Your Own Theme</a></li>
+                <li><a href="#customer-support">Customer Support</a></li>
+
+            </ol>
+
+            <hr>
+
+
+
+            <h3 id="folder-structure"><strong>A) Folder Structure</strong> - <a href="#toc">top</a></h3>
+
+            <ul>
+                <li><strong>assets</strong>
+                    <ul>
+                        <li><strong>css</strong> → containts the main CSS file, themes, and a file to enter custom CSS
+                        <li><strong>images</strong> → contains all images used by the template
+                        <li><strong>js</strong> → contains main JavaScript file and jQuery plugins</li>
+                        <li><strong>plugins</strong> → contains additional plugins with mixed document types, such as JavaScript or CSS</li>
+                    </ul>
+                </li>
+            </ul>
+
+
+
+            <h3 id="image-sizes"><strong>B) Image Sizes</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                You should use the following image sizes for certain areas of the template:
+            </p>
+            <table summary="Picture Sizes">
+                <colgroup>
+                    <col width="20%">
+                    <col width="15%">
+                    <col width="*">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>Type</th>
+                        <th>Size (in pixels)</th>
+                        <th>Retina Size (in pixels)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Avatar</td>
+                        <td>250 x 250</td>
+                        <td>500 x 500</td>
+                    </tr>
+                    <tr>
+                        <td>Portfolio Thumbnail</td>
+                        <td>450 x 300</td>
+                        <td>900 x 600</td>
+                    </tr>
+                    <tr>
+                        <td>Clients</td>
+                        <td>* x 50</td>
+                        <td>* x 100</td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+            <h3 id="retina-support"><strong>C) Retina/HiDPI Support</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                To support Retina/HiDPI devices, simply upload your image in double its resolution and add a <b>@2x</b> behind it's name.
+            </p>
+            <p>
+                For example:
+                <br/>
+                <b>avatar.jpg</b> in 250x250 for devices with low resolution, and <b>avatar@2x.jpg</b> in 500x500 for devices with Retina/HiDPI resolution.
+            </p>
+
+
+
+            <h3 id="disabling-features"><strong>D) Disabling Features</strong> - <a href="#toc">top</a></h3>
+
+            <h4 id="disabling-retina">1. Disabeling Retina/HiDPI Support</h4>
+            <p>
+                To disable support for Retina/HiDPI devices, please delete the following line from the <code>&lt;head&gt;</code> area:
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- dense.js (Retina plugin) --&gt;
+&lt;script src=&quot;assets/js/dense.js&quot;&gt;&lt;/script&gt;</pre>
+            </div>
+
+            <h4 id="disabling-lightbox">2. Disabeling Nivo Lightbox</h4>
+            <p>
+                To disable the Nivo Lightbox (that is used for the portfolio gallery), please delete the following lines from the <code>&lt;head&gt;</code> area:
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Nivo Lightbox --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/plugins/nivo-lightbox/nivo-lightbox.css&quot; /&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/plugins/nivo-lightbox/themes/default/default.css&quot; /&gt;</pre>
+            </div>
+            <p>
+                and
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Nivo Lightbox --&gt;
+&lt;script src=&quot;assets/plugins/nivo-lightbox/nivo-lightbox.min.js&quot;&gt;&lt;/script&gt;</pre>
+            </div>
+
+
+
+            <h3 id="changing-themes"><strong>E) Changing Themes</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                To switch the theme of the template from light to dark, look for the following line <code>&lt;head&gt;</code> area, and change the file name from <b>themes.light.css</b> to <b>themes.dark.css</b>:
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Themes --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/css/themes.light.css&quot;&gt;</pre>
+            </div>
+
+
+
+            <h3 id="custom-css"><strong>F) Custom CSS</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                If you want to add or override CSS, please look this line <code>&lt;head&gt;</code> area
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Custom CSS --&gt;
+&lt;!--&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/css/custom.css&quot;&gt;--&gt;</pre>
+            </div>
+            <p>
+                and remove the comment brackets (<code>&lt;!--</code> and <code>--&gt;</code>).
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Custom CSS --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/css/custom.css&quot;&gt;</pre>
+            </div>
+            <p>
+                Then Open the file <b>assets/css/custom.css</b> and add your custom CSS.
+            </p>
+
+
+
+            <h3 id="custom-theme"><strong>G) Creating Your Own Theme</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                I created the template in such a way, that the whole color scheme can be changed very easily.
+            </p>
+            <p>
+                If you want to create your own theme, add a new CSS file to the folder <b>/assets/css</b> (e.g. <b>themes.custom.css</b>), and copy the contents of one of the already existing themes into the file.
+                Then you can start changing the colors.
+            </p>
+            <p>
+                Don't forget to change the link to the new file in the <code>&lt;head&gt;</code> area to activate your theme:
+            </p>
+            <div class="box">
+                <pre>
+&lt;!-- Themes --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/css/themes.<b>custom</b>.css&quot;&gt;</pre>
+            </div>
+
+
+
+            <h3 id="customer-support"><strong>H) Customer Support</strong> - <a href="#toc">top</a></h3>
+
+            <p>
+                If you have any further questions, please use the comment section of this template on <a href="http://themeforest.net/user/RuvenThemes/portfolio?ref=RuvenThemes">ThemeForest</a>.
+                This way other users can benefit from the solution as well.
+                I will try my best to answer every question.
+            </p>
+
+            <br/>
+
+            <hr/>
+
+            <br/>
+
+            <p>
+              If you're satisfied with the template and want to show it, you are welcome to log in to your <a href="http://themeforest.net/user/RuvenThemes/portfolio?ref=RuvenThemes">ThemeForest</a> account and rate the template.
+              You can do this under <i>My Account → Downloads</i>. Just hover over the 5th star and click ;p
+            </p>
+
+            <p>
+              Again, thank you very much for purchasing this template!
+
+            <p>
+              Best regards,
+              <br/>
+              <span class="alt large">Ruven</span>
+            </p>
+
+            <br/>
+            <hr/>
+            <br/>
+
+            <p><a href="#toc">Go To Table of Contents</a></p>
+
+            <hr class="space"/>
+
+
+
+
+
+        </div>
+        <!-- end .container -->
+    </body>
+
+</html>
