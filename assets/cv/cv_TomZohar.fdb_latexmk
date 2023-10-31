@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1688119767 "cv_TomZohar.tex" "cv_TomZohar.pdf" "cv_TomZohar" 1688119768
+["pdflatex"] 1698753586 "cv_TomZohar.tex" "cv_TomZohar.pdf" "cv_TomZohar" 1698753586
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm" 1480098688 1748 e2a60f37215e3585dff293cec494a67b ""
@@ -8,7 +8,9 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8r.tfm" 1480098688 3824 751120f38c7d75d9c97b0c36843f69c8 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm" 1480098688 2132 8620186aa5a77a8995e82c9ec1a82dc7 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri8r.tfm" 1480098688 4148 d6b2047022c721a25d78978eed00b200 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm" 1480098705 564 4473b3a7796d55e24866e7d8c333bf96 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1480098733 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb" 1480098739 20847 cc0ded7ca5f7a3cdcc6ec70b56da93d5 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb" 1480098746 48864 96901a485f69890f3d64b5f7b7218eb3 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb" 1480098746 46830 624e2afdf1987af1003e0fa8f7d5d313 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb" 1480098746 45832 e347aaf9b53b931665ec33b7dde3a94c ""
@@ -24,6 +26,7 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/comment/comment.sty" 1480098825 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1518389458 43862 d90315ae4a46ef887a38b4ccba021f91 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/eurosym/eurosym.sty" 1480098827 3028 8faeef64adee9b964b5e7f5e45921024 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1480098830 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def" 1515537368 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty" 1523134385 7028 112f909feb676788e7ea1c5b0b76320f ""
@@ -46,7 +49,7 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "cv_TomZohar.aux" 1594117456 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv_TomZohar.tex" 1688119692 8246 711177e6969fdad10c6f10d40047d48e ""
+  "cv_TomZohar.tex" 1698753585 8416 57f38b6508d169d6a41ce2414621c465 ""
   "res.cls" 1548703733 25064 12b8a9e558b35c7e7f7f5fb39bebb9a2 ""
   (generated)
   "cv_TomZohar.log"

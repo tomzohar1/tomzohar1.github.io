@@ -18,6 +18,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/eurosym/eurosym.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -77,8 +79,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/vf/adobe/ncntrsbk/pncri7t.vf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri8r.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspnc.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb
