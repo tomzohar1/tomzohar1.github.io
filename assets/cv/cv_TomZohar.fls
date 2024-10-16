@@ -1,4 +1,4 @@
-PWD /Users/tomzohar/Dropbox (CEMFI)/Tools/website/tomzohar1.github.io/assets/cv
+PWD /Users/tomzohar/CEMFI Dropbox/tom zohar/Tools/website/tomzohar1.github.io/assets/cv
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -108,7 +108,11 @@ OUTPUT cv_TomZohar.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8c.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -117,14 +121,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr8c.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncri7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri8r.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8c.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr8c.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb
