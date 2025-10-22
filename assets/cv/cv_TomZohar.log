@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  29 MAY 2025 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  22 OCT 2025 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,13 +327,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 65.
 
-Overfull \hbox (21.25938pt too wide) in paragraph at lines 130--131
+Overfull \hbox (21.25938pt too wide) in paragraph at lines 134--135
 []\OT1/pnc/m/n/10 Communidad de Madrid (Con-se-je-ria de Ed-u-ca-cion e In-ves-
 ti-ga-cion), 2025 (\U/eurosym/m/n/10 e\OT1/pnc/m/n/10 342,000) 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 1
-34.
+38.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 ) [1
@@ -342,7 +342,7 @@ File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
 ]
-Overfull \hbox (2.34517pt too wide) in paragraph at lines 235--236
+Overfull \hbox (2.34517pt too wide) in paragraph at lines 241--242
 []\OT1/pnc/m/n/10 Seminar or-ga-nizer: CEMFI's ap-plied mi-cro sem-i-nar (AMiS)
  and stu-dents' work-
  []
@@ -357,18 +357,18 @@ L3 programming layer <2023-10-23>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8507 strings out of 474404
- 132618 string characters out of 5750455
+ 8508 strings out of 474404
+ 132626 string characters out of 5750455
  1932033 words of memory out of 5000000
- 30500 multiletter control sequences out of 15000+600000
+ 30501 multiletter control sequences out of 15000+600000
  564280 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,250b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,250b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texl
 ive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (4 pages, 64607 bytes).
+Output written on cv_TomZohar.pdf (4 pages, 65237 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
