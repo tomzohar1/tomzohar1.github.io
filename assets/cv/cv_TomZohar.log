@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  22 OCT 2025 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  23 OCT 2025 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,37 +341,44 @@ File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
+
 ]
-Overfull \hbox (2.34517pt too wide) in paragraph at lines 241--242
-[]\OT1/pnc/m/n/10 Seminar or-ga-nizer: CEMFI's ap-plied mi-cro sem-i-nar (AMiS)
- and stu-dents' work-
+Overfull \hbox (22.33156pt too wide) in paragraph at lines 218--219
+\OT1/pnc/m/n/10 (with So-nia Bhalo-tra, N. Meltem Daysal, Priyama Ma-jum-dar, a
+nd Mircea Trandafir) 
  []
 
 [3
 
 
-] [4]
+]
+Overfull \hbox (2.34517pt too wide) in paragraph at lines 243--244
+[]\OT1/pnc/m/n/10 Seminar or-ga-nizer: CEMFI's ap-plied mi-cro sem-i-nar (AMiS)
+ and stu-dents' work-
+ []
+
+[4]
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-23>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8508 strings out of 474404
- 132626 string characters out of 5750455
+ 8509 strings out of 474404
+ 132636 string characters out of 5750455
  1932033 words of memory out of 5000000
  30501 multiletter control sequences out of 15000+600000
  564280 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,250b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,250b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texl
 ive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (4 pages, 65237 bytes).
+Output written on cv_TomZohar.pdf (4 pages, 65146 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 53 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
