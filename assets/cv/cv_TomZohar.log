@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  23 OCT 2025 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  18 DEC 2025 10:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,13 +327,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 65.
 
-Overfull \hbox (21.25938pt too wide) in paragraph at lines 134--135
+Overfull \hbox (21.25938pt too wide) in paragraph at lines 136--137
 []\OT1/pnc/m/n/10 Communidad de Madrid (Con-se-je-ria de Ed-u-ca-cion e In-ves-
 ti-ga-cion), 2025 (\U/eurosym/m/n/10 e\OT1/pnc/m/n/10 342,000) 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+pnc on input line 1
-38.
+40.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
 File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 ) [1
@@ -341,9 +341,8 @@ File: ts1pnc.fd 2001/06/04 font definitions for TS1/pnc.
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
-
 ]
-Overfull \hbox (22.33156pt too wide) in paragraph at lines 218--219
+Overfull \hbox (22.33156pt too wide) in paragraph at lines 220--221
 \OT1/pnc/m/n/10 (with So-nia Bhalo-tra, N. Meltem Daysal, Priyama Ma-jum-dar, a
 nd Mircea Trandafir) 
  []
@@ -351,8 +350,9 @@ nd Mircea Trandafir)
 [3
 
 
+
 ]
-Overfull \hbox (2.34517pt too wide) in paragraph at lines 243--244
+Overfull \hbox (2.34517pt too wide) in paragraph at lines 245--246
 []\OT1/pnc/m/n/10 Seminar or-ga-nizer: CEMFI's ap-plied mi-cro sem-i-nar (AMiS)
  and stu-dents' work-
  []
@@ -375,7 +375,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texl
 ive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
-Output written on cv_TomZohar.pdf (4 pages, 65146 bytes).
+Output written on cv_TomZohar.pdf (4 pages, 65114 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
