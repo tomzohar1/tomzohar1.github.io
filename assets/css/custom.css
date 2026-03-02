@@ -3,42 +3,93 @@
  */
 
 /* =====================================================
-   Full-width section content wrapper
+   Container: expand to fill wider screens
+   Small outer padding ensures a sliver of margin at
+   all viewport sizes.
    ===================================================== */
-.c-section-content {
-  padding: 1.75rem 1.75rem 0;
+.o-container {
+  max-width: 1600px;
+  box-sizing: border-box;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
-@media (min-width: 760px) {
-  .c-section-content {
-    padding: 3.15rem 3.5rem 1.4rem;
-  }
-}
-
-@media (min-width: 1200px) {
-  .c-section-content {
-    padding: 4.375rem 5.25rem 1.6625rem;
-  }
-}
-
-/* Keep content sections white (match original o-section__content background) */
+/* =====================================================
+   Sidebar layout: 15%/85% split for content sections
+   Reduce the large default inner padding so columns
+   use space efficiently on wide screens.
+   Sidebar gets the same #fbfbfb grey as the header
+   photo column, creating a continuous left accent strip.
+   ===================================================== */
 @media (min-width: 1024px) {
-  .o-section.t-section:not(.o-section--footer) {
+  .o-section__header  { width: 15%; }
+  .o-section__content { width: 85%; }
+
+  .o-section__header,
+  .o-section__content {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .o-section:not(.o-section--header):not(.o-section--footer) .o-section__header {
+    background: #fbfbfb;
+  }
+}
+
+/* =====================================================
+   Remove all section background colors — full white
+   ===================================================== */
+.t-section,
+.t-section:nth-child(even) {
+  background: #fff;
+}
+
+@media (min-width: 1024px) {
+  .t-section__header,
+  .t-section:nth-child(even) .t-section__header,
+  .t-section__content,
+  .t-section:nth-child(even) .t-section__content {
     background: #fff;
   }
 }
 
 /* =====================================================
-   Section heading row (sits above the paper timeline)
+   Avatar: flush left, percentage-width column matching
+   the content section sidebars (15%).
+   Photo scaled to 180px to fit comfortably within the
+   column at all viewport sizes.
    ===================================================== */
-.c-section-heading {
-  margin-bottom: 1.75rem;
-  padding-bottom: 0.875rem;
-  border-bottom: 1px solid #ececec;
+@media (min-width: 1024px) {
+  .o-section--header .o-section__header {
+    text-align: left;
+    width: 15%;
+    flex-shrink: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .o-section--header .o-section__content {
+    width: auto;
+    flex: 1;
+  }
+  .c-avatar {
+    width:  180px;
+    height: 180px;
+  }
+  .c-avatar__img {
+    width:  180px;
+    height: 180px;
+  }
 }
 
 /* =====================================================
-   Paper title: spans full width above the two columns
+   Image overlay: hide hover text on paper figures
+   ===================================================== */
+.c-image-overlay__content {
+  display: none;
+}
+
+/* =====================================================
+   Paper title: spans full content width above columns
    ===================================================== */
 .c-work__heading--full {
   margin-bottom: 0.75rem;
@@ -85,7 +136,6 @@
 
 /* =====================================================
    Abstract panel (hidden by default, shown via JS)
-   Sits inside the left column only
    ===================================================== */
 .c-abstract-panel {
   display: none;
@@ -97,4 +147,15 @@
   color: #939393;
 }
 
-/*# sourceMappingURL=custom.css.map */
+/* =====================================================
+   Nav links in header: gold like other links
+   ===================================================== */
+.c-header__contact a h4 {
+  color: #F8BB10;
+  transition: color 0.15s linear;
+}
+
+.c-header__contact a:hover h4,
+.c-header__contact a:focus h4 {
+  color: #e0a707;
+}
