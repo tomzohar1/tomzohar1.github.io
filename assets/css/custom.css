@@ -1,7 +1,100 @@
 /**
  * CUSTOM CSS
- *
- * Here you can add your custom CSS code.
  */
+
+/* =====================================================
+   Full-width section content wrapper
+   ===================================================== */
+.c-section-content {
+  padding: 1.75rem 1.75rem 0;
+}
+
+@media (min-width: 760px) {
+  .c-section-content {
+    padding: 3.15rem 3.5rem 1.4rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .c-section-content {
+    padding: 4.375rem 5.25rem 1.6625rem;
+  }
+}
+
+/* Keep content sections white (match original o-section__content background) */
+@media (min-width: 1024px) {
+  .o-section.t-section:not(.o-section--footer) {
+    background: #fff;
+  }
+}
+
+/* =====================================================
+   Section heading row (sits above the paper timeline)
+   ===================================================== */
+.c-section-heading {
+  margin-bottom: 1.75rem;
+  padding-bottom: 0.875rem;
+  border-bottom: 1px solid #ececec;
+}
+
+/* =====================================================
+   Paper title: spans full width above the two columns
+   ===================================================== */
+.c-work__heading--full {
+  margin-bottom: 0.75rem;
+}
+
+/* =====================================================
+   Audio: stack link above player
+   ===================================================== */
+.c-timeline__item a.c-audio-link {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.c-timeline__item audio {
+  display: block;
+  margin-top: 0.25rem;
+  width: 100%;
+  max-width: 20rem;
+}
+
+/* =====================================================
+   Abstract toggle button
+   ===================================================== */
+.c-abstract-toggle {
+  display: block;
+  margin-top: 0.875rem;
+  padding: 0.25rem 0.75rem;
+  background: transparent;
+  border: 1px solid #F8BB10;
+  color: #939393;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.c-abstract-toggle:hover,
+.c-abstract-toggle.is-active {
+  background: #F8BB10;
+  color: #fff;
+}
+
+/* =====================================================
+   Abstract panel (hidden by default, shown via JS)
+   Sits inside the left column only
+   ===================================================== */
+.c-abstract-panel {
+  display: none;
+  margin-top: 1rem;
+  padding: 0.875rem 1.25rem;
+  border-left: 3px solid #F8BB10;
+  font-size: 0.9em;
+  line-height: 1.75;
+  color: #939393;
+}
 
 /*# sourceMappingURL=custom.css.map */

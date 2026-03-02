@@ -8,6 +8,15 @@ $(document).ready(function() {
     setup_nivo_lightbox();
     setup_dense();
 
+    // Abstract toggle
+    $('.c-abstract-toggle').on('click', function() {
+        var target = $(this).data('target');
+        $('#' + target).slideToggle(250);
+        $(this).toggleClass('is-active');
+        var label = $(this).hasClass('is-active') ? 'Abstract \u25b2' : 'Abstract \u25bc';
+        $(this).text(label);
+    });
+
     $(window).load(function() {
         $(".js-preloader").fadeOut(800, function() {
             $(".js-main-container").fadeIn(800);
