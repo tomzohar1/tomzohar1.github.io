@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main page -->
+  <url>
+    <loc>https://tomzohar.com/</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- CV -->
+  <url>
+    <loc>https://tomzohar.com/assets/cv/cv_TomZohar.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Paper PDFs (hosted on tomzohar.com) -->
+  <url>
+    <loc>https://tomzohar.com/assets/writeups/IGM_decomposition.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tomzohar.com/assets/writeups/zohar_brooks_dobbin_abortion_subsidies_israel.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tomzohar.com/assets/writeups/Impact_of_LARCS_and_Information_Campaigns.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tomzohar.com/assets/writeups/SeparationsRevisited.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tomzohar.com/assets/writeups/Almunia%20Samkov%20Zohar%20--%20SERIEs%20submission.pdf</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

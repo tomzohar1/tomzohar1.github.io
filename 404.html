@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting… | Tom Zohar</title>
+    <meta name="robots" content="noindex">
+
+    <script>
+        // GitHub Pages redirect handler.
+        // Map old paths → new paths below. Add entries whenever a file moves.
+        var redirects = {
+            // Example — uncomment and adapt if a file was ever renamed:
+            // "/assets/writeups/old-name.pdf": "/assets/writeups/new-name.pdf",
+
+            // JMP / older abortion paper URL (sometimes shared in old emails)
+            "/assets/writeups/zohar_JMP.pdf": "/assets/writeups/zohar_brooks_dobbin_abortion_subsidies_israel.pdf",
+
+            // Older IGM filename occasionally referenced in external links
+            "/assets/writeups/IGM_firms.pdf": "/assets/writeups/IGM_decomposition.pdf"
+        };
+
+        var path = window.location.pathname;
+        var target = redirects[path];
+
+        if (target) {
+            // Preserve any query string / hash
+            window.location.replace(target + window.location.search + window.location.hash);
+        }
+        // If no redirect rule matches, fall through to the message below.
+    </script>
+</head>
+<body>
+    <p>Page not found. <a href="/">Return to tomzohar.com</a></p>
+</body>
+</html>
