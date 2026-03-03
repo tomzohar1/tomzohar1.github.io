@@ -82,10 +82,40 @@
 }
 
 /* =====================================================
-   Image overlay: hide hover text on paper figures
+   Image overlay: hide old verbose hover content;
+   show a simple hint label via ::after on hover
    ===================================================== */
 .c-image-overlay__content {
   display: none;
+}
+
+.c-image-overlay::after {
+  content: 'Click to enlarge';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.52);
+  color: #fff;
+  text-align: center;
+  padding: 0.45rem 0.75rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
+}
+
+.c-image-overlay:hover::after {
+  opacity: 1;
+}
+
+/* Scale small images to fill the lightbox width */
+.nivo-lightbox-image img {
+  width: 100%;
+  height: auto;
+  max-height: 80vh;
 }
 
 /* =====================================================
@@ -142,7 +172,7 @@
   margin-top: 1rem;
   padding: 0.875rem 1.25rem;
   border-left: 3px solid #F8BB10;
-  font-size: 0.9em;
+  font-size: 1em;
   line-height: 1.75;
   color: #939393;
 }
