@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /documentation/
+Disallow: /assets/audio/
+Disallow: /assets/writeups/intergen_immigrants_15_countries.pdf
+Disallow: /assets/writeups/CP_and_mental_health.pdf
+Disallow: /assets/writeups/modelBasedOutcomes.pdf
 
 Sitemap: https://tomzohar.com/sitemap.xml
