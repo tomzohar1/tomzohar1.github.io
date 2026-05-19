@@ -178,6 +178,17 @@
 }
 
 /* =====================================================
+   Header inner content: reserve space at the bottom for
+   the absolutely-positioned nav bar so the bio text
+   never overlaps it on shorter screens.
+   ===================================================== */
+@media (min-width: 1024px) {
+  .c-header__inner-content {
+    padding-bottom: 6rem;
+  }
+}
+
+/* =====================================================
    Nav links in header: gold like other links
    ===================================================== */
 .c-header__contact a h4 {
