@@ -17,7 +17,7 @@ $(document).ready(function() {
         $(this).text(label);
     });
 
-    $(window).load(function() {
+    $(window).on('load', function() {
         $(".js-preloader").fadeOut(800, function() {
             $(".js-main-container").fadeIn(800);
 
