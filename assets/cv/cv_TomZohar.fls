@@ -109,10 +109,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8c.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -121,6 +117,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncb7t.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pnc.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncr8c.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/ncntrsbk/pncri7t.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncr8c.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/ncntrsbk/pncri7t.vf
